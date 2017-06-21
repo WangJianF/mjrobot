@@ -1,2 +1,2 @@
-deps:
-	go get github.com/yuin/gopher-lua
+# mjrobot
+mjrobot
